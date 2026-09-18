@@ -18,7 +18,3 @@ Unity 6 project from the Unity Creative Core pathway, focused on UI.
    ```
 2. Open the folder in Unity Hub → Add project → select this folder.
 3. Open the main scene from `Assets/` and press Play.
-
-## Notes
-- `Library/`, `Temp/`, `Logs/`, `UserSettings/` and generated `.csproj` / `.sln` files are git-ignored.
-- Large binary assets are tracked with Git LFS.
