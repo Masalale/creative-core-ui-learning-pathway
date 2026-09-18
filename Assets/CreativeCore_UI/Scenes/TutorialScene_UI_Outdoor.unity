@@ -3669,8 +3669,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: The Best Title
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bc5336ad0f5e2ca4cadce776e259d194, type: 2}
-  m_sharedMaterial: {fileID: 8547378051034653105, guid: bc5336ad0f5e2ca4cadce776e259d194, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 60ccf3136f9c26d4eaf88c14c34bc0bd, type: 2}
+  m_sharedMaterial: {fileID: -8689488456410738406, guid: 60ccf3136f9c26d4eaf88c14c34bc0bd, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3694,8 +3694,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 40
-  m_fontSizeBase: 40
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3704,7 +3704,7 @@ MonoBehaviour:
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
-  m_characterSpacing: 0
+  m_characterSpacing: -8
   m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
